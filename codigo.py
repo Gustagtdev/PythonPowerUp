@@ -72,6 +72,6 @@ for linha in tabela.index:
     pyautogui.press("tab")
     pyautogui.press("enter")
     pyautogui.scroll(5000)#rola até o topo da página
-#Passo 5-Repetir isso atépython3estudante@gmail. acabar a base de dados
+#Passo 5-Repetir isso até python3estudante@gmail. acabar a base de dados
 
 
